@@ -3,7 +3,7 @@ Replication package for "Does Programming Language Matter? An Empirical Study of
 
 ---
 
-> **Notice**  
+> ## **Notice**  
 > The database used in this study is extremely large and therefore could not be uploaded to GitHub.  
 > Upon acceptance of the paper, we will make the dataset available through a public repository such as **Zenodo**.  
 > The results used in our analyses are stored in the `results/` directory.
