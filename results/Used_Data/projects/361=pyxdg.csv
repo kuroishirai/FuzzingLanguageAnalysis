@@ -1,0 +1,2 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Covered_Lines,Diff_URL,Diff_Files
+pyxdg,python,20220606,1d23e483ae869ee9532aca43b133cc43f63626a3,f097a66923a65e93640c48da83e6e9cfbddd86ba,15,3,https://github.com/takluyver/pyxdg,xdg/BaseDirectory.py;xdg/__init__.py

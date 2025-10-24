@@ -1,0 +1,12 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Full_Covered,Partial_Covered,Diff_URL,Diff_Files,Treat_PC_As_Full
+mvel,jvm,20231130,4e611596c67a9945901e1ec3e8394edcf5c0ac0c,85125e1af5f3ec32990b1768b8656bfcf450b489,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20230824,3eeecb494667e89364756775afa4a91311fcbe04,20867986c0559c9ad53081ce68b0d67a21f7b527,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20240126,ed9c64fa8eda47ae54d7abfa42446108836e029a,4e611596c67a9945901e1ec3e8394edcf5c0ac0c,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20240131,236d37bc78a158553592afedbbf1aa27815efb78,963488ebf483a55a39da15121f132fabaf14cfc7,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20240127,963488ebf483a55a39da15121f132fabaf14cfc7,ed9c64fa8eda47ae54d7abfa42446108836e029a,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20240517,f5506fd8ee7f2aedd5e8bc227b4e9d40e9a74f88,5149868113d725038af94b1b241368af95af1054,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20240330,0c948e8d52ad74a1c479b6b2309c084fdf39ffa4,236d37bc78a158553592afedbbf1aa27815efb78,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20240820,a04c449f9f27992e3d2483b33deaeabe18c80886,f5506fd8ee7f2aedd5e8bc227b4e9d40e9a74f88,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20230907,85125e1af5f3ec32990b1768b8656bfcf450b489,3eeecb494667e89364756775afa4a91311fcbe04,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20241106,62c0dddd67c0bbd1b9d4b47da8d5b90b6b9a5781,a04c449f9f27992e3d2483b33deaeabe18c80886,0,0,0,https://github.com/mvel/mvel/,,True
+mvel,jvm,20250308,b418c20592a9e2fcc18895f876f1ea1ac5881ac8,62c0dddd67c0bbd1b9d4b47da8d5b90b6b9a5781,22,1,0,https://github.com/mvel/mvel/,src/main/java/org/mvel2/compiler/BlankLiteral.java;src/test/java/org/mvel2/tests/core/CoreConfidenceTests.java,True

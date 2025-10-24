@@ -1,0 +1,6 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Covered_Lines,Diff_URL,Diff_Files
+lzma,c++,20240507,d25e63d8f6b8186d04146cb19405bc5ad565412e,875388cd5af8b9d1d28d799ed91a8905486275ea,0,0,https://github.com/fancycode/lzma-fuzz.git,
+lzma,c++,20190403,add008e2e0412280cde95bb8f326df46bd7b1975,1dc367e56ea69998637fc436aff2bba3ded4ea66,83,44,https://github.com/fancycode/lzma-fuzz.git,filters_fuzzer.cc
+lzma,c++,20190712,875388cd5af8b9d1d28d799ed91a8905486275ea,9279d8fa21ad955e4528cd9775e8fa3b5e4ac5b4,4,2,https://github.com/fancycode/lzma-fuzz.git,xzdec_fuzzer.cc;xzenc_fuzzer.cc
+lzma,c++,20190412,9279d8fa21ad955e4528cd9775e8fa3b5e4ac5b4,d6538559450b0aa96e68745b79d65cce68a0b22c,23,8,https://github.com/fancycode/lzma-fuzz.git,7z_fuzzer.cc;lzma2dec_fuzzer.cc;lzma2enc_fuzzer.cc;lzmadec_fuzzer.cc;lzmaenc_fuzzer.cc
+lzma,c++,20190407,d6538559450b0aa96e68745b79d65cce68a0b22c,add008e2e0412280cde95bb8f326df46bd7b1975,335,174,https://github.com/fancycode/lzma-fuzz.git,common-alloc.h;common-buffer.h;filters_fuzzer.cc;ppmdenc_fuzzer.cc;xzdec_fuzzer.cc;xzenc_fuzzer.cc

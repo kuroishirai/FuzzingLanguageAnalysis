@@ -1,0 +1,14 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Full_Covered,Partial_Covered,Diff_URL,Diff_Files,Treat_PC_As_Full
+joni,jvm,20250304,a7ec7ddb155d47151c83f0387d78f780f5b28abd,de23ab08e6d677646f9fddc2b73a9044cc0bd0d4,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20250117,64eb19faad8ea95b7360bc05e0628fcce4b23363,a8bdae16cc2ad211996d1544c4cd4d378e02d8cf,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20250228,de23ab08e6d677646f9fddc2b73a9044cc0bd0d4,64eb19faad8ea95b7360bc05e0628fcce4b23363,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20250307,33f85800b2c33c092a8981c2322f021ad69d8a8c,a7ec7ddb155d47151c83f0387d78f780f5b28abd,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20250116,a8bdae16cc2ad211996d1544c4cd4d378e02d8cf,03ac9a5afdb9fcf8cb7815fdae9da60825a266bd,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20250329,65b181b42b8d3737ecf55be0d84f3bf46e76b129,33f85800b2c33c092a8981c2322f021ad69d8a8c,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20240511,c13681d362dca850de13b288c4069e14c12c154f,d4696c4f6dcdd1484895abae4b9b3c62874759e1,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20230805,4fdf9262eaf50c256e1ca56b10757e76b14caeae,6a0d556f7c24d77b0735e3d4fcfc2e3207174b4d,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20230907,d4696c4f6dcdd1484895abae4b9b3c62874759e1,c187bb24e17219147c3cc8ebd62d152b794ea3b5,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20230810,c187bb24e17219147c3cc8ebd62d152b794ea3b5,4fdf9262eaf50c256e1ca56b10757e76b14caeae,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20240725,03ac9a5afdb9fcf8cb7815fdae9da60825a266bd,648837c5033354adc0f36386a1aaa8af3a51f055,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20240719,648837c5033354adc0f36386a1aaa8af3a51f055,3750dcbf58cb5cfad76c1a3ae11cc2be65ba7fe1,0,0,0,https://github.com/jruby/joni,,True
+joni,jvm,20240517,3750dcbf58cb5cfad76c1a3ae11cc2be65ba7fe1,c13681d362dca850de13b288c4069e14c12c154f,0,0,0,https://github.com/jruby/joni,,True

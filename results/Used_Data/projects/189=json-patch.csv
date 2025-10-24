@@ -1,0 +1,16 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Covered_Lines,Diff_URL,Diff_Files
+json-patch,go,20240305,e7cfbbbcc6e301d230bd304f4996348a4ea33191,b7a4e4a87a35414cd02460dac07e879df729df37,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20250129,84a4bb100ade42a86fce2647c95a7dbcbf569cb2,bd18525ff3c7e480b7004a90e7b37248fdb21006,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20211215,6a7ad8a3ea2159744c01c0354b7c41646bd4f70b,50fdc0b4c9ab36933e6a0c9288fef3ac5df2b907,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20210606,3c3c85ec60c9921ef01901c824e95a6b0a4e45d1,3e2cfc05e32a184632c985af5cc3e18d47f6a03a,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20211021,5561fe05a1ec79c9bca966376211b2ab81959671,3c3c85ec60c9921ef01901c824e95a6b0a4e45d1,16,2,https://github.com/evanphx/json-patch,patch.go
+json-patch,go,20211022,50fdc0b4c9ab36933e6a0c9288fef3ac5df2b907,5561fe05a1ec79c9bca966376211b2ab81959671,30,19,https://github.com/evanphx/json-patch,patch.go
+json-patch,go,20240128,b7a4e4a87a35414cd02460dac07e879df729df37,b82b685c982b26399c940fc89be030f343570192,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20210601,3e2cfc05e32a184632c985af5cc3e18d47f6a03a,60af5a5e5c58c2ea0c6faf8a30246d74c7bdd158,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20240113,05c952675fb54a42b0120d9602a65958001d1dce,a9c085a75a5541ebc19b239ff620078cdf51942e,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20240112,a9c085a75a5541ebc19b239ff620078cdf51942e,dc808d1b15ce3e04b8a05e6d31dbd8bcbaf45c76,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20250128,bd18525ff3c7e480b7004a90e7b37248fdb21006,e7cfbbbcc6e301d230bd304f4996348a4ea33191,49,27,https://github.com/evanphx/json-patch,patch.go
+json-patch,go,20230114,b2e4d76267a929d591461aca0f9ca4daf0ba296f,6a7ad8a3ea2159744c01c0354b7c41646bd4f70b,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20240117,b82b685c982b26399c940fc89be030f343570192,05c952675fb54a42b0120d9602a65958001d1dce,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20230811,08317d1eab774ce48d2543a3ea47332f9c739e4f,b2e4d76267a929d591461aca0f9ca4daf0ba296f,0,0,https://github.com/evanphx/json-patch,
+json-patch,go,20230912,dc808d1b15ce3e04b8a05e6d31dbd8bcbaf45c76,08317d1eab774ce48d2543a3ea47332f9c739e4f,2,2,https://github.com/evanphx/json-patch,patch.go

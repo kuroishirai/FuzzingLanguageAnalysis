@@ -1,0 +1,14 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Covered_Lines,Diff_URL,Diff_Files
+pdoc,python,20241125,2a66eb2c882cabd195a61f44a921bfdc39eddf2e,d1136eafa45315bf5e89596197a24804e4790ee6,0,0,https://github.com/pdoc3/pdoc,
+pdoc,python,20250206,9e4f6ad4b311f267648aa1533487a17c8b124f93,0e17bd1b08b71c0ef854393324403ad8e576ba63,0,0,https://github.com/pdoc3/pdoc,
+pdoc,python,20250108,0e17bd1b08b71c0ef854393324403ad8e576ba63,96221e13df80c3ed78fdd0e3134f87843bcc0b18,0,0,https://github.com/pdoc3/pdoc,
+pdoc,python,20250422,d43ca70a121b2a5d31f576dca733a49108c2481c,ef0fbeac0973d502c18a8d20adc2c8ced0ff3f4e,0,0,https://github.com/pdoc3/pdoc,
+pdoc,python,20250517,d7fbd0865f72ddf01cffb236baa8199ad5624191,d43ca70a121b2a5d31f576dca733a49108c2481c,0,0,https://github.com/pdoc3/pdoc,
+pdoc,python,20240623,d1136eafa45315bf5e89596197a24804e4790ee6,84ee28b60f6aebdfe28f2a6a352991370fb5b81a,2,0,https://github.com/pdoc3/pdoc,pdoc/html_helpers.py
+pdoc,python,20240309,14cd51c1b7431cdec5c3e7510b8a0e3b66c2f7d4,3ecfbcfb658c5be9ee6ab572b63db2cb5e1c29e1,2,0,https://github.com/pdoc3/pdoc,pdoc/__init__.py
+pdoc,python,20241229,96221e13df80c3ed78fdd0e3134f87843bcc0b18,65342aecd782326b4c98492bbf9102c3534a735a,5,0,https://github.com/pdoc3/pdoc,pdoc/__init__.py
+pdoc,python,20250321,ef0fbeac0973d502c18a8d20adc2c8ced0ff3f4e,9e4f6ad4b311f267648aa1533487a17c8b124f93,3,1,https://github.com/pdoc3/pdoc,pdoc/__init__.py
+pdoc,python,20241126,78e771b0132de0fb181bc412d0fcae0dd5fd0505,2a66eb2c882cabd195a61f44a921bfdc39eddf2e,56,1,https://github.com/pdoc3/pdoc,pdoc/__init__.py
+pdoc,python,20240311,cf5bffdb89b32e060ff8dc08a6a78c7c4af67290,14cd51c1b7431cdec5c3e7510b8a0e3b66c2f7d4,23,8,https://github.com/pdoc3/pdoc,pdoc/__init__.py;pdoc/html_helpers.py
+pdoc,python,20241127,aab629ce3daac7cef088bd7439f4884790a8003f,78e771b0132de0fb181bc412d0fcae0dd5fd0505,6,0,https://github.com/pdoc3/pdoc,pdoc/__init__.py;pdoc/html_helpers.py
+pdoc,python,20240622,84ee28b60f6aebdfe28f2a6a352991370fb5b81a,cf5bffdb89b32e060ff8dc08a6a78c7c4af67290,34,3,https://github.com/pdoc3/pdoc,pdoc/__init__.py;pdoc/html_helpers.py

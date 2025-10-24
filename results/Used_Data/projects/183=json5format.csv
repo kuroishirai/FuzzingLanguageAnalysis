@@ -1,0 +1,9 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Covered_Lines,Diff_URL,Diff_Files
+json5format,rust,20210323,cdf89436e3712d64367a580e8adf63c634e4e589,ce0294779ccbeb44a043f833e5727db1f61a40de,0,0,https://github.com/google/json5format,
+json5format,rust,20210429,7465b847d458e9e268b6af76178f0d5901f12b81,cdf89436e3712d64367a580e8adf63c634e4e589,0,0,https://github.com/google/json5format,
+json5format,rust,20211224,1779f5426ca245399238c255be1859af7d13daab,7465b847d458e9e268b6af76178f0d5901f12b81,10,1,https://github.com/google/json5format,src/parser.rs
+json5format,rust,20220616,a9b9f57a90e47815c1c3a12d47357b6d3edcfafd,8d37874034acae97dc6329a3356a9f0d7e60d4bd,14,0,https://github.com/google/json5format,src/parser.rs
+json5format,rust,20220120,8d37874034acae97dc6329a3356a9f0d7e60d4bd,ca65fae0cde914d9f060d11c14c9d68f5b9cad5b,20,13,https://github.com/google/json5format,src/parser.rs
+json5format,rust,20220618,c0b2fb0956b6fb099374a83d7ecd9a052ca6b47a,a9b9f57a90e47815c1c3a12d47357b6d3edcfafd,11,4,https://github.com/google/json5format,src/parser.rs
+json5format,rust,20220109,ca65fae0cde914d9f060d11c14c9d68f5b9cad5b,1779f5426ca245399238c255be1859af7d13daab,643,175,https://github.com/google/json5format,src/content.rs;src/parser.rs
+json5format,rust,20240130,25a594b7daacb4605241dc8d63e7c36411208c87,c0b2fb0956b6fb099374a83d7ecd9a052ca6b47a,128,45,https://github.com/google/json5format,src/content.rs;src/formatter.rs;src/lib.rs;src/options.rs;src/parser.rs

@@ -1,0 +1,7 @@
+language,project_count,mean_reproducible_ratio,median_reproducible_ratio,min_reproducible_ratio,max_reproducible_ratio
+c,77,82.21,86.96,29.17,100.0
+c++,263,85.59,91.11,7.69,100.0
+go,74,50.8,50.0,0.0,96.3
+java,66,68.88,79.8,0.0,100.0
+python,36,78.02,84.52,0.0,100.0
+rust,35,92.1,98.56,18.18,100.0

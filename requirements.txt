@@ -1,0 +1,47 @@
+# =============================================================
+# Core scientific stack
+# =============================================================
+numpy
+pandas
+scipy
+statsmodels
+
+# =============================================================
+# Visualization
+# =============================================================
+matplotlib
+seaborn
+reportlab  # for PDF report generation (patch coverage, summary export)
+
+# =============================================================
+# Statistical / Bayesian modeling
+# =============================================================
+bambi
+arviz
+pymc  # for Bayesian inference in RQ3/RQ4 scripts
+
+# =============================================================
+# Utilities
+# =============================================================
+tqdm
+configparser
+pathlib
+traceback2
+
+# =============================================================
+# Database access
+# =============================================================
+psycopg2-binary
+
+# =============================================================
+# Optional (used by utils.py)
+# =============================================================
+slack_sdk  # for utils.notify_slack
+google-cloud-storage  # for cloud data fetch (used in some scripts)
+requests
+
+# =============================================================
+# Debug / Notebook support (optional)
+# =============================================================
+ipython
+jupyter

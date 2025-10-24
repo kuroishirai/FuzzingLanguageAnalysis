@@ -1,0 +1,9 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Covered_Lines,Diff_URL,Diff_Files
+olefile,python,20231123,a14a4e69c6c7e879322104a06144f2627d7fba91,8f440abaf894785808540296f221bd271901ced5,0,0,https://github.com/decalage2/olefile,
+olefile,python,20231107,8ca1fbccbf625be8f71eec80d19c6ffbdc341793,a24bdd02335f55f0ed498e8699c873460c935a0e,0,0,https://github.com/decalage2/olefile,
+olefile,python,20241029,7c0f1ce6f27311e03f25a997024846b58fa9826f,ae8e110e90965f2648052b29f1b3da2c39465001,0,0,https://github.com/decalage2/olefile,
+olefile,python,20231201,2cf1a46d514c98b55ee99767b9263c518ecd7098,21487353244cb1125bbe02641f312408d3f21a33,0,0,https://github.com/decalage2/olefile,
+olefile,python,20231115,8f440abaf894785808540296f221bd271901ced5,8ca1fbccbf625be8f71eec80d19c6ffbdc341793,4,2,https://github.com/decalage2/olefile,olefile/olefile.py
+olefile,python,20231104,a24bdd02335f55f0ed498e8699c873460c935a0e,5ae06e937cd18afebfb49239e8f20b099605136f,29,6,https://github.com/decalage2/olefile,olefile/olefile.py
+olefile,python,20231129,21487353244cb1125bbe02641f312408d3f21a33,a14a4e69c6c7e879322104a06144f2627d7fba91,3,2,https://github.com/decalage2/olefile,olefile/olefile.py
+olefile,python,20231202,ae8e110e90965f2648052b29f1b3da2c39465001,2cf1a46d514c98b55ee99767b9263c518ecd7098,3,2,https://github.com/decalage2/olefile,olefile/__init__.py;olefile/olefile.py

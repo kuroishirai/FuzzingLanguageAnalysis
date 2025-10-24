@@ -1,0 +1,7 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Full_Covered,Partial_Covered,Diff_URL,Diff_Files,Treat_PC_As_Full
+json-flattener,jvm,20241027,9a2137dc34bda9971205ad8282ca885258e44a97,4024884b88d5440f1ff557805779a60be8311d27,0,0,0,https://github.com/wnameless/json-flattener/,,True
+json-flattener,jvm,20241005,4024884b88d5440f1ff557805779a60be8311d27,8089ab83c1c0adafdde3ea4fa1975854ad483426,0,0,0,https://github.com/wnameless/json-flattener/,,True
+json-flattener,jvm,20230831,e8f5f710c85abc257907789468dc9aae91343807,51c69933d1ce4aa73828ea62366e13816ae38e26,0,0,0,https://github.com/wnameless/json-flattener/,,True
+json-flattener,jvm,20230915,8089ab83c1c0adafdde3ea4fa1975854ad483426,e8f5f710c85abc257907789468dc9aae91343807,0,0,0,https://github.com/wnameless/json-flattener/,,True
+json-flattener,jvm,20250330,9c55b892f058af492382ff64148d9c350894fb98,d161f426651a140a7cad21580a6ee780c3b306f8,0,0,0,https://github.com/wnameless/json-flattener/,,True
+json-flattener,jvm,20250307,d161f426651a140a7cad21580a6ee780c3b306f8,9a2137dc34bda9971205ad8282ca885258e44a97,39,0,0,https://github.com/wnameless/json-flattener/,src/test/java/com/github/wnameless/json/flattener/JsonFlattenerFactoryTest.java;src/test/java/com/github/wnameless/json/flattener/JsonFlattenerTest.java;src/test/java/com/github/wnameless/json/unflattener/JsonUnflattenerFactoryTest.java;src/test/java/com/github/wnameless/json/unflattener/JsonUnflattenerTest.java,True

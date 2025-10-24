@@ -1,0 +1,9 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Full_Covered,Partial_Covered,Diff_URL,Diff_Files,Treat_PC_As_Full
+threetenbp,jvm,20231228,6ddf6dad3140139906d7bef9063f7fb2657c1836,0a5403ed315b9b1770c27a74ca6c2e162851ca78,0,0,0,https://github.com/ThreeTen/threetenbp,,True
+threetenbp,jvm,20231103,0a5403ed315b9b1770c27a74ca6c2e162851ca78,1bc34b1340ae99978566999f70ae909013ee8c9d,0,0,0,https://github.com/ThreeTen/threetenbp,,True
+threetenbp,jvm,20240326,0cc27b92e1bffa5f0fca663ed0bbb89e06a9838d,bdf97bf72f4e5af7ae3c3af1ea8e3407c1451341,0,0,0,https://github.com/ThreeTen/threetenbp,,True
+threetenbp,jvm,20240417,adcdbc462b4e93e68e6f9c9a82217d0478b7d635,0cc27b92e1bffa5f0fca663ed0bbb89e06a9838d,0,0,0,https://github.com/ThreeTen/threetenbp,,True
+threetenbp,jvm,20240206,bdf97bf72f4e5af7ae3c3af1ea8e3407c1451341,6ddf6dad3140139906d7bef9063f7fb2657c1836,0,0,0,https://github.com/ThreeTen/threetenbp,,True
+threetenbp,jvm,20240918,b833efe7ac2f1a02c016deb188fd7ce3b124ed2e,26d994191965715cb45ba381c4c97722158bed74,0,0,0,https://github.com/ThreeTen/threetenbp,,True
+threetenbp,jvm,20250311,edbc3416ed981b3c6a6673ab5e47d08ef54983fe,b833efe7ac2f1a02c016deb188fd7ce3b124ed2e,1,1,0,https://github.com/ThreeTen/threetenbp,src/main/java/org/threeten/bp/format/SimpleDateTimeTextProvider.java,True
+threetenbp,jvm,20240917,26d994191965715cb45ba381c4c97722158bed74,adcdbc462b4e93e68e6f9c9a82217d0478b7d635,55,0,0,https://github.com/ThreeTen/threetenbp,src/main/java/org/threeten/bp/zone/TzdbZoneRulesCompiler.java,True

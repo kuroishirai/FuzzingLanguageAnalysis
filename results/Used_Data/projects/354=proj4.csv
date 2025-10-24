@@ -1,0 +1,15 @@
+Project,Language,Date,Revision_New,Revision_Old,Matched_Lines,Covered_Lines,Diff_URL,Diff_Files
+proj4,c++,20230904,8b4fa7dbb9418c49dff9ce263bc49acbf5c9be3b,8a2cf2d9a821370fe16513876942707fd4b8c41a,0,0,https://github.com/OSGeo/PROJ,
+proj4,c++,20230121,a44d84de52a9bf1b6ec86275500117cd46b66350,7a5278c9441ffa2cbc60fcec02ebde2a82d8c3f5,0,0,https://github.com/OSGeo/PROJ,
+proj4,c++,20230407,b147211021a315ab72d0382b69e7bf43b31bddc8,f39d49a649854245b59a51f0e2950a790c611d90,0,0,https://github.com/OSGeo/PROJ,
+proj4,c++,20230501,653a94b4babee9701a9b93f51fdd6fe3b3cfc808,748c943774a0ce9031ff64f47962ddddd2fbf560,0,0,https://github.com/OSGeo/PROJ,
+proj4,c++,20241105,48574191a4c041574e625e665e630fa74a891041,64164dee4fa7fb48c153771ed196abde58e6af96,0,0,https://github.com/OSGeo/PROJ,
+proj4,c++,20230706,50e8a55c22d5a19c2322be069e39602605b7b5c2,effac63ae5360e737790defa5bdc3d070d19a49b,0,0,https://github.com/OSGeo/PROJ,
+proj4,c++,20221219,600492e5fac2178c641265cea2b10f67e395c911,69c8aa4b376906a834df7921f76e50c6a43bee3b,1,0,https://github.com/OSGeo/PROJ,src/mlfn.cpp
+proj4,c++,20240204,a3b225fc9e8ae4423449c2862833bf747a4573ad,704767f84f53a3aec271e63c38517086bc9459ec,1,0,https://github.com/OSGeo/PROJ,src/iso19111/io.cpp
+proj4,c++,20230513,9d3737bd59c4750f0e695cb8aed2e4f83bb565ce,cfed44da805c2a60c672a89c0436ba36bc157ee3,15,15,https://github.com/OSGeo/PROJ,src/iso19111/io.cpp
+proj4,c++,20240206,af8a4edc4e0ce9e56098439181d6f717bcadd5a6,a3b225fc9e8ae4423449c2862833bf747a4573ad,45,30,https://github.com/OSGeo/PROJ,src/iso19111/io.cpp
+proj4,c++,20221108,1116e0c25ef7166644cfbb104b60d98b250f416a,e3eee3b8d4598ce58be79bb9b60fbc20cc3456ad,37,0,https://github.com/OSGeo/PROJ,src/4D_api.cpp;src/generic_inverse.cpp;src/proj.h;src/proj_internal.h;src/projections/adams.cpp;src/projections/cass.cpp;src/projections/wink2.cpp;src/rtodms.cpp
+proj4,c++,20230120,7a5278c9441ffa2cbc60fcec02ebde2a82d8c3f5,86b01b2703450b83f8385e536c74d26a6c3138bb,34,0,https://github.com/OSGeo/PROJ,src/iso19111/c_api.cpp;src/iso19111/io.cpp
+proj4,c++,20230117,c41e7a6452a9d2318967c50a644ba8190021d14c,b7a864356667c7d0da4545ff4fd1466022a0faee,90,0,https://github.com/OSGeo/PROJ,include/proj/coordinateoperation.hpp;src/iso19111/c_api.cpp;src/iso19111/operation/conversion.cpp;src/iso19111/operation/parammappings.cpp;src/proj_constants.h
+proj4,c++,20241203,2dc4914f08d45acacac0c8c04d68b086089e2c42,6a1e2dc5c8ea1fcace270de4b5a04b89df99d8e6,54,28,https://github.com/OSGeo/PROJ,src/4D_api.cpp;src/ctx.cpp;src/filemanager.cpp;src/iso19111/io.cpp;src/proj_internal.h
